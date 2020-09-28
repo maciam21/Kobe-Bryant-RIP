@@ -1,5 +1,10 @@
+
+
+
+
 .Tittle
 {
+  background-image: none;
   padding:1px;
   margin:15px;
   color: black;
@@ -13,7 +18,7 @@
 
 
 
-.Kobe1 { 
+#Kobe1 { 
   border: solid white; 
 	width:100px; 
 	height:200px; 
@@ -25,7 +30,7 @@
 	padding: 40px 50px 80px; 
 	float: center; 
   font-family: 'Permanent Marker', cursive;
-  
+  background-image: none;
 } 
 
 div {
@@ -36,7 +41,7 @@ border:5px solid black;
 padding: 15px;
 margin: 12px;
 border-color: white;
-  
+background-image: none; 
 
 }
 
@@ -44,6 +49,8 @@ border-color: white;
 
 body{
   background-color: white;
+  background-image: url("https://i.ibb.co/sKNcm5n/Kobe-Drawing.jpg");
+
 }
 header{
   font-family: 'Permanent Marker', cursive;
@@ -87,7 +94,7 @@ header{
 .nav li-hover {
      list-style-type:none;
     background:#fdb927;
-    transition:background .3s;
+    transition: .3s;
 
   }
 
@@ -113,7 +120,7 @@ header{
   }
 
 article {
-    background-color:none;
+    background-color:white;
     width: 100%;
     height: auto;
     text-align:center
@@ -127,4 +134,4 @@ article {
     text-align:center
     
   }
-     
+  /* Start http://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/sports/spo-3/spo251.cur), auto !important;} /* End http://www.cursors-4u.com */   
