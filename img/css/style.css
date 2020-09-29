@@ -76,7 +76,7 @@ nav li {
 
 
 :hover {
-  background: #000066;
+  background:  #000066;
   transition: background .3s;
   color:#fdb927;
   text-decoration:none;
@@ -87,7 +87,7 @@ nav li {
 }
 
 nav-link {
-color:#fdb927;
+color: #fdb927;
 text-decoration: none;
 
 

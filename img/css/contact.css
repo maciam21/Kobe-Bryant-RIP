@@ -21,14 +21,14 @@
 .Kobe1
 { 
   border: solid white; 
-	width:175px; 
-	height:300px; 
+	width:450px; 
+	height:700px; 
 	text-align:left; 
 	background-color:gold; 
 	word-wrap: break-word; /* words won't go from the boundry */ 
 	margin: 50px 5px auto; 
 	/* top, left, bottom*/ 
-	padding: 40px 50px 80px; 
+	padding: 100px 100px 100px; 
 	float: center; 
   font-family: 'Permanent Marker', cursive;
   background-image: none;
@@ -39,7 +39,7 @@ div {
 
 background-color: gold;
 height: 250px;
-width:200px;
+width:400px;
 border:5px solid black;
 padding: 15px;
 margin: 12px;
@@ -58,7 +58,7 @@ header{
   background-color:#000066;
   color:#FFFFFF;
   width:170%;
-  height:500px;
+  height:300px;
   border:5px solid black;
   padding: 20px;
   margin:2px;
