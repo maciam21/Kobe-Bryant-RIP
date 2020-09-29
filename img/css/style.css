@@ -1,12 +1,23 @@
 
 .Tittle
 {
-  color: white;
+ 
   font-size: 200px;
   float: left;
   width: 100%;
   height:75px;
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'Permanent Marker', cursive; 
+  color: white;
+  text-shadow:
+  /* Outline */
+  -1px -1px 0 #000000,
+  1px -1px 0 #000000,
+  -1px 1px 0 #000000,
+  1px 1px 0 #000000,  
+  -2px 0 0 #000000,
+  2px 0 0 #000000,
+  0 2px 0 #000000,
+  0 -2px 0 #000000; /* Terminate with a semi-colon */
 
 
   
