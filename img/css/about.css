@@ -66,12 +66,14 @@ body{
   height:100%;
   overflow: auto;
   color: #fdb927 ;
+  font-family: 'Bebas Neue', cursive;
 
 }
 
 .Kobe1 {
 text-align:center;
 margin-top: 75%;
+font-family: 'Bebas Neue', cursive;
 
 
 
@@ -138,3 +140,12 @@ text-decoration: underline;
 }
 
 /* Start http://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/sports/spo-3/spo251.cur), auto !important;} /* End http://www.cursors-4u.com */
+
+
+
+
+
+footer{
+  text-align:left;
+  font-family: 'Bebas Neue', cursive;
+}
