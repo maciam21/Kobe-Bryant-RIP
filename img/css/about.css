@@ -1,7 +1,7 @@
 
 
-.Tittle
-{
+.Tittle{
+
   background-image: none;
   padding:1px;
   margin:15px;
@@ -11,9 +11,7 @@
   height:200px;
   font-family: 'Permanent Marker', cursive;
   color:#000066;
-  ;
-  
-    text-shadow:
+  text-shadow:
     /* Outline */
     -1px -1px 0 white,
     1px -1px 0 white,
@@ -27,12 +25,8 @@
 }
 
 
-
-
-
-
-
 header{
+
   background-color: #fdb927;
   font-family: 'Bebas Neue', cursive;
   font-weight:lighter;
@@ -61,6 +55,7 @@ header{
 
 
 body{
+
   background-image: url("https://i.ibb.co/K96SXSJ/mike-von-Q-3-Ac-Rtqoq-M-unsplash.jpg");
   background-size:cover;
   height:100%;
@@ -70,26 +65,25 @@ body{
 
 }
 
-.Kobe1 {
+.Kobe1{
+
 text-align:center;
 margin-top: 75%;
 font-family: 'Bebas Neue', cursive;
 
-
-
-
 }
   
-nav {
+
+nav{
  
   text-decoration: none;
   font-family: 'Permanent Marker', cursive;
  
-
 }
 
 
-nav li {
+nav li{
+
   display: initial;
   list-style-type:  none;
   height:30px;
@@ -97,68 +91,62 @@ nav li {
   padding:0 20px;
   text-decoration: none;
 
-  
-
 }
 
 
-:hover {
+:hover{
+
   background: #000066;
   transition: background .3s;
   color:#fdb927;
   text-decoration:none;
   cursor:pointer;
 
- 
-
 }
 
-nav-link {
+nav-link{
+
 color:#fdb927;
 text-decoration: none;
 
-
-
 }
 
-a:link {
+a:link{
+
 text-decoration: none;
 }
 
-a:visited {
+a:visited{
+
 text-decoration: none;
+
 }
 
-a:hover {
-text-decoration: underline;
-}
+a:hover{
 
-a:active {
 text-decoration: underline;
 
-
 }
 
-/* Start http://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/sports/spo-3/spo251.cur), auto !important;} /* End http://www.cursors-4u.com */
+a:active{
 
+text-decoration: underline;
 
-
-
+}
 
 footer{
+
   text-align:left;
   font-family: 'Bebas Neue', cursive;
 
-
-
 }
 
-
-
-
-
 img {
+
   width:50px;
   height:50px;
 }
+
+
+/* Start http://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/sports/spo-3/spo251.cur), auto !important;} /* End http://www.cursors-4u.com */
 

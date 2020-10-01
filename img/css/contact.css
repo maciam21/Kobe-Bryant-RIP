@@ -1,14 +1,10 @@
 
+.Tittle{
 
-
-
-.Tittle
-{
   background-image: none;
   padding:1px;
   margin:15px;
   color: black;
-
   text-shadow:
   /* Outline */
   -1px -1px 0 white,
@@ -19,17 +15,6 @@
   2px 0 0 white,
   0 2px 0 white,
   0 -2px 0 white; /* Terminate with a semi-colon */
-
-
-
-
-
-
-
-
-
-
-
   font-size:200px;
   float: center;
   width: 85%;
@@ -40,8 +25,8 @@
 
 
 
-.Kobe1
-{ 
+.Kobe1{ 
+
   border: solid white; 
 	width:450px; 
 	height:700px; 
@@ -57,7 +42,7 @@
   font-family: 'Bebas Neue', cursive;
 } 
 
-div {
+div{
 
 background-color: gold;
 height: 250px;
@@ -68,14 +53,18 @@ margin: 12px;
 border-color: white;
 background-image: none; 
 font-family: 'Bebas Neue', cursive;
+
 }
+
 body{
+
   background-color: white;
   background-image: url("https://i.ibb.co/sKNcm5n/Kobe-Drawing.jpg");
-
-font-family: 'Bebas Neue', cursive;
+  font-family: 'Bebas Neue', cursive;
 }
+
 header{
+
   font-family: 'Bebas Neue', cursive;
   background-color:#000066;
   color:#FFFFFF;
@@ -85,9 +74,11 @@ header{
   padding: 20px;
   margin:2px;
   text-align:left;
+
 }
   
- nav {
+ nav{
+
     background: none;
     width: 100%;
     height: auto;
@@ -95,15 +86,17 @@ header{
     padding: 10 px;
     margin: 10 px;
     font-family: 'Permanent Marker', cursive;
+
   }
 
-  .logo image {
+  .logo image{
+
     float: left;
     height: 50px;
     width:150px;
 }
  
-  .nav li {
+  .nav li{
 
     float: left;
     list-style: none;
@@ -114,35 +107,39 @@ header{
     
     
   }
-.nav li-hover {
+
+.nav li-hover{
+
      list-style-type:none;
     background:#fdb927;
     transition: .3s;
 
   }
 
-  .nav-link {
+  .nav-link{
+
   color:#fdb927;
   text-decoration:none;
 
-
 }
 
-  aside {
+  aside{
+
     background-color:none;
       widows:20px;
       height:100px;
     
   }
  
-  section {
+  section{
     
     width: 100%;
     height: auto;
     text-align:center
+
   }
 
-article {
+article{
     background-color:white;
     width: 100%;
     height: auto;
@@ -150,15 +147,13 @@ article {
 
   }
   
-  footer {
+  footer{
     background-color:none;
     width: 100%;
     height: auto;
     text-align:center
     
   }
-  /* Start http://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/sports/spo-3/spo251.cur), auto !important;} /* End http://www.cursors-4u.com */   
-
 
 
   footer{
@@ -179,15 +174,16 @@ article {
       0 1px 0 black,
       0 -1px 0 black; /* Terminate with a semi-colon */
   
-  
   }
     
   img {
+
     width:150px;
     height:150px;
     padding: 10px;
     margin:10%;
 
-
 }
 
+
+/* Start http://www.cursors-4u.com */ * {cursor: url(https://cur.cursors-4u.net/sports/spo-3/spo251.cur), auto !important;} /* End http://www.cursors-4u.com */   
