@@ -40,6 +40,7 @@
   font-family: 'Permanent Marker', cursive;
   background-image: none;
   font-family: 'Bebas Neue', cursive;
+
 } 
 
 div{
@@ -61,6 +62,7 @@ body{
   background-color: white;
   background-image: url("https://i.ibb.co/sKNcm5n/Kobe-Drawing.jpg");
   font-family: 'Bebas Neue', cursive;
+
 }
 
 header{
@@ -77,42 +79,42 @@ header{
 
 }
   
+
+.logo image{
+
+  float: left;
+  height: 50px;
+  width:150px;
+}
+
+
  nav{
 
-    background: none;
-    width: 100%;
-    height: auto;
-    border: 10pc solid back;
-    padding: 10 px;
-    margin: 10 px;
-    font-family: 'Permanent Marker', cursive;
-
-  }
-
-  .logo image{
-
-    float: left;
-    height: 50px;
-    width:150px;
-}
+  text-decoration: none;
+  font-family: 'Permanent Marker', cursive;
  
-  .nav li{
-
-    float: left;
-    list-style: none;
-    height: 50px;
-    width: 150px;
-    padding: 0 40px;
-    text-decoration: none;
-    
-    
   }
 
-.nav li-hover{
+  
+ 
+  nav li{
 
-     list-style-type:none;
-    background:#fdb927;
-    transition: .3s;
+    display: initial;
+    list-style-type:  none;
+    height:30px;
+    line-height:20px;
+    padding:0 20px;
+    text-decoration: none;
+  
+  }
+
+  :hover{
+
+  background: #000066;
+  transition: background .3s;
+  color:#fdb927;
+  text-decoration:none;
+  cursor:pointer;
 
   }
 
@@ -121,7 +123,31 @@ header{
   color:#fdb927;
   text-decoration:none;
 
-}
+  }
+
+  a:link{
+
+    text-decoration: none;
+
+    }
+    
+    a:visited{
+    
+    text-decoration: none;
+    
+    }
+    
+    a:hover{
+    
+    text-decoration: underline;
+    
+    }
+    
+    a:active{
+    
+    text-decoration: underline;
+    
+    }
 
   aside{
 
@@ -155,7 +181,6 @@ article{
     
   }
 
-
   footer{
     
     padding: 10px;
@@ -176,7 +201,7 @@ article{
   
   }
     
-  img {
+  img{
 
     width:150px;
     height:150px;
